@@ -1,0 +1,9 @@
+stock analysis - useful later in life; focus on analytics
+
+buildling tech roadmap - useful in one class, but can be applied throughout tech industries; focus on interactive graphing, requires storage/dB
+
+flexible options - idea destroyed
+
+current headlines parser - useful for life across many topics, focus on API and parsing, must be maintained for relevance over time
+
+
